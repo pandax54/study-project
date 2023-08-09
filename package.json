@@ -1,0 +1,20 @@
+{
+  "name": "study-project",
+  "version": "1.0.0",
+  "description": "Project to apply technical and extra-technical knowledge of the development process.",
+  "main": "index.js",
+  "engines": {
+    "node": "16.13.0",
+    "npm": "8.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
